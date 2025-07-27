@@ -93,8 +93,7 @@ Waste-Classification-Transfer-Learning/
 
 This project uses the Garbage Classification dataset.
 
-➡️ Download it from [Kaggle](https://www.kaggle.com/datasets/asdasdasd)  
-➡️ 
+➡️ Download it from [Kaggle](https://www.kaggle.com/datasets/asdasdasd)   
 
 
 
