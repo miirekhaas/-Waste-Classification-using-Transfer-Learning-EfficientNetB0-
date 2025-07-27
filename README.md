@@ -89,7 +89,14 @@ Waste-Classification-Transfer-Learning/
 3. Run all cells — optimized for CPU or GPU use
 4. Modify dataset path if needed
 
----
+## 📦 Dataset Setup
+
+This project uses the Garbage Classification dataset.
+
+➡️ Download it from [Kaggle](https://www.kaggle.com/datasets/asdasdasd)  
+➡️ 
+
+
 
 ## 📈 Results
 
